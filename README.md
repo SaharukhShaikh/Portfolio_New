@@ -3,11 +3,6 @@ This portfolio is a small project using the HTML/CSS and Bootstrap. I will be us
 
 [LIVE REPLIT DEPLOYMENT]()
 
-# Screenshot:!
-
-[Uploading Screenshot 2022-11-08 at 08.54.18.png…]()
-
-
 
 # Technologies Used:
 * HTML 
@@ -18,3 +13,7 @@ This portfolio is a small project using the HTML/CSS and Bootstrap. I will be us
  
 # How to use?
 Use this template to build your own portfolio
+
+# Screenshot:!
+
+<img width="1425" alt="Screenshot 2022-11-08 at 08 54 18" src="https://user-images.githubusercontent.com/102286564/200468149-e185c755-df5f-4543-9786-029d240b0ed8.png">
